@@ -10,7 +10,7 @@ KKNI Level 2 pada SMK Kemungkinan ada 2 Jabatan : 
 
 Dalam kurikulum diajarkan semua tetapi di ujikan hanya 1 sesuai dengan keinginannya/fasionnya 
 
-Unit dapat digali dimensi 
+### **Unit dapat digali dimensi** 
 
 TS : Task Skill → MElaksanakan 1 KEgiatan 
 
